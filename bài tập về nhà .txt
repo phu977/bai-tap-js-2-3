@@ -1,0 +1,41 @@
+Các folder là các bài tập từ 1 -> 5
+
+bài 1: tính lương nhận viên 
+Công thức: Lương = Lương 1 ngày * số ngày làm
+Kiến thức áp dụng:
+
+Tìm tới thẻ và lấy giá trị
+Tạo hàm cơ bản
+Gắn sự kiện click cho button
+Thay đổi nội dung cho thẻ
+Xử lý load trang với button của form
+
+bài 2 tính giá trị trung bình 
+Kiến thức áp dụng:
+
+Tìm tới thẻ và lấy giá trị
+Tạo hàm cơ bản
+Gắn sự kiện click cho button
+Thay đổi nội dung cho thẻ
+Xử lý load trang với button của form
+Xử lý ép kiểu dữ liệu
+
+bài 3 Quy đổi tiền
+Kiến thức áp dụng:
+
+Áp dụng các kiến thức như bài 1 và 2
+Giá USD mặc định 1 USD = 23500
+Có thể dùng thêm NumberFormat để số tiền hiển thị đẹp hơn: NumberFormat
+VD: new Intl.NumberFormat('vn-VN').format(23500); => 23,500
+
+bài 4 Tính diện tích, chu vi hình chữ nhật
+Kiến thức áp dụng:
+
+Áp dụng các kiến thức như các bài trước
+Diện tích: dài x rộng
+Chu vi: (dài + rộng) x 2
+
+bài 5 tính tổng 2 số 
+Kiến thức áp dụng:
+
+Áp dụng cách tính như demo tổng 3 ký số trên lớp
